@@ -1,0 +1,37 @@
+/* ///////////////////////-index1.html-//////////////////////////// */
+.bodyPage1{
+    background-image: url("/images/page1background.png");
+    background-size: cover;
+    position: relative;
+}
+.page1Img{
+    height: 38px;
+    width: 236px;
+    margin: 25px 0 0 70px;
+}
+.addResumeBtn{
+    height: 60px;
+    width: 464px;
+    border-radius: 8px;
+    font-size: 20px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFFFFF;
+    margin-top: 300px;
+    margin-left: calc(50% - 232px);
+}
+.page1Line{
+    margin: 26px 0 0 70px;
+    background-color: black;
+    width: calc(100% - 140px);
+    height: 1px;
+}
+.page1seal{
+    position: absolute;
+    left: 58%;
+    top: 78%;
+}
+/* ///////////////////////-index2.html-//////////////////////////// */
+
